@@ -1,2 +1,2 @@
-# new-java-test
+# lbc
 Repositry for studies
